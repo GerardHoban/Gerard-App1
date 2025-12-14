@@ -1,0 +1,5 @@
+{
+  "name": "Retro Space Invaders",
+  "description": "A classic Space Invaders style arcade game using HTML5 Canvas and React. Defend Earth from the descending alien grid!",
+  "requestFramePermissions": []
+}
